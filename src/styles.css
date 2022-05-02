@@ -1,0 +1,26 @@
+body {
+  font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+}
+.temp-style {
+  font-size: 50px;
+}
+
+.city-forecast {
+  text-align: center;
+  max-width: 200px;
+}
+.search-form {
+  width: 80%;
+  margin: 20px auto;
+}
+.table-forecast {
+  width: 80%;
+  margin: 20px auto;
+}
+.weather-app {
+  border: 1px solid grey;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  border-radius: 10px;
+}
