@@ -24,3 +24,8 @@ body {
   max-width: 600px;
   border-radius: 10px;
 }
+small {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
